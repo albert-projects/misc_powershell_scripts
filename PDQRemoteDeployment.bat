@@ -1,0 +1,3 @@
+@echo off
+echo Loading ...
+"C:\Windows\System32\WindowsPowerShell\v1.0\Powershell.exe" -NoProfile -ExecutionPolicy Bypass -File "C:\Users\akwan\Documents\PDQRemoteDeployment.ps1"
